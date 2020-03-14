@@ -8,10 +8,10 @@ The goal of this project is to analyze how rookies were drafted based on combine
 1. Search PFF Grades on PFF Website and enter into excel (have to search and enter each name manually unfortunately).
 1. Use the Python program NFLRookies.py to clean up the data and add null values where necessary.
 1. Use the SQL queries to see comparisons for:
-  1. Positional Rankings
-  1. Combine stats vs. Draft Position
+  - Positional Rankings
+  - Combine stats vs. Draft Position
 
 **Future Work**
 * Add visualizations
-* Clean python code to make the function => null much shorter and concise
+
 
